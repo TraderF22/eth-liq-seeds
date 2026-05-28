@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "ETH_LONG_01",
+    "description": "ETH Top Long Liquidation Cluster #1",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_01",
+    "description": "ETH Top Short Liquidation Cluster #1",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_02",
+    "description": "ETH Top Long Liquidation Cluster #2",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_02",
+    "description": "ETH Top Short Liquidation Cluster #2",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_03",
+    "description": "ETH Top Long Liquidation Cluster #3",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_03",
+    "description": "ETH Top Short Liquidation Cluster #3",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_04",
+    "description": "ETH Top Long Liquidation Cluster #4",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_04",
+    "description": "ETH Top Short Liquidation Cluster #4",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_05",
+    "description": "ETH Top Long Liquidation Cluster #5",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_05",
+    "description": "ETH Top Short Liquidation Cluster #5",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_06",
+    "description": "ETH Top Long Liquidation Cluster #6",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_06",
+    "description": "ETH Top Short Liquidation Cluster #6",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_07",
+    "description": "ETH Top Long Liquidation Cluster #7",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_07",
+    "description": "ETH Top Short Liquidation Cluster #7",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_08",
+    "description": "ETH Top Long Liquidation Cluster #8",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_08",
+    "description": "ETH Top Short Liquidation Cluster #8",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_09",
+    "description": "ETH Top Long Liquidation Cluster #9",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_09",
+    "description": "ETH Top Short Liquidation Cluster #9",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_LONG_10",
+    "description": "ETH Top Long Liquidation Cluster #10",
+    "type": "fund"
+  },
+  {
+    "symbol": "ETH_SHORT_10",
+    "description": "ETH Top Short Liquidation Cluster #10",
+    "type": "fund"
+  }
+]
